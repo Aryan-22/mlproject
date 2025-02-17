@@ -4,5 +4,5 @@ seaborn
 ipykernel
 scikit-learn
 xgboost
-catboost
+dill
 #-e .
